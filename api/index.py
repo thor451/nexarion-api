@@ -117,11 +117,11 @@ def a2a_endpoint():
             "crypto",
             "data_analysis"
         ],
-        "skills": [
-            "data_analysis",
-            "chart_generation",
-            "trend_forecasting",
-            "on_chain_analytics"
+        "skills": [ # <-- INI FORMAT BARU BIAR NGGAK UNKNOWN
+            "data_science/data_analysis",
+            "visualization/chart_generation",
+            "finance/trend_forecasting",
+            "technology/on_chain_analytics"
         ],
         "domains": [
             "decentralized_finance",
